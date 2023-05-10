@@ -1,6 +1,6 @@
 # 📫 Daily Posts
 
-Daily Post is a simple blog application that allows users to read articles. This project was built in the context of Acterio internship application (https://acterio.com).
+Daily Posts is a simple blog application that allows users to read articles. This project was built in the context of Acterio internship application (https://acterio.com).
 
 <div style="display:flex">
     <img src="https://i.ibb.co/thgjMWM/Daily-Posts.png" alt="Home Page" style="max-width: 450px; margin-right: 20px">
